@@ -1,0 +1,9 @@
+{
+    "ui": {
+        "background": "#41198cff",
+        "base": "#562791ff",
+        "baseFocus": "#7d5aa8ff",
+        "text": "#ffffffff",
+        "menuItemSize": 60
+    }
+}
